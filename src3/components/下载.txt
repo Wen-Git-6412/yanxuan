@@ -1,0 +1,5 @@
+下载sass
+cnpm install node-sass sass-loader@7.3.1 -s
+
+swiper
+3.1.3
